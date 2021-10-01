@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tag3_03Stapel", "Tag3_03Stapel\Tag3_03Stapel.csproj", "{C785E8CA-87E9-4051-B552-5A9EF5795E1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C785E8CA-87E9-4051-B552-5A9EF5795E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C785E8CA-87E9-4051-B552-5A9EF5795E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C785E8CA-87E9-4051-B552-5A9EF5795E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C785E8CA-87E9-4051-B552-5A9EF5795E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B46F231D-4AAF-4EB1-8333-9A7FDBBA0780}
+	EndGlobalSection
+EndGlobal
